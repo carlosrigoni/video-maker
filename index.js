@@ -12,7 +12,7 @@ async function start() {
     await robots.text(content)
 
     function askAndReturnSearchTerm() {
-        return readline.question('Type a Wikipedia search term: ')
+        return readline.question('Type a Wikipedia search term: ');
     }
     
     function askAndReturnPrefix() {
@@ -23,7 +23,7 @@ async function start() {
         return selectedPrefixText
     }
 
-    console.log(content);
+    console.log(content); 
 }
  
 start();  
