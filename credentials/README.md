@@ -5,5 +5,7 @@
 File: `algorithimia.json`
 
 ```
- 
+{
+    "apiKey": "key"
+}
 ```
