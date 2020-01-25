@@ -6,6 +6,6 @@ File: `algorithimia.json`
 
 ```
 {
-    "apiKey": "key"
+    "apiKey": " YOUR ALGORITHIMIA KEY HERE "
 }
 ```
