@@ -7,16 +7,6 @@ Projeto open source para fazer vídeos automatizados
 - Node (https://nodejs.org)
 
 # Instalação
-
-Por [Hebert Lima](https://github.com/hebertlima)
-
-Estou vendo que alguns devs aqui estão com problemas para rodar o projeto, talvez por que alguns não estão acompanhando a serie no [YouTube](https://www.youtube.com/watch?v=kjhu1LEmRpY&list=PLMdYygf53DP4YTVeu0JxVnWq01uXrLwHi) e por pegarem o "bonde andando" estão pulando algumas etapas do projeto e indo direto para o `node index.js`, então aqui vai a transcrição do passo-a-passo (que está sendo explicado nos vídeos) detalhado de como rodar o projeto para os desavisados de primeira viagem :stuck_out_tongue_winking_eye:
-
-## Start ##
-Vou partir do princípio que você caiu na playlist e é aspirantes a programação e não está familiarizados com o **Git** ou **Node.js**, então primeiro você precisa instalar o [Node.js](https://nodejs.org/en/) no seu pc e seguir o procedimento padrão de instalação **next->next->ok**, recomendo você baixar o [Git](https://git-scm.com/downloads) e instalar na sua maquina, depois basta copiar a URL do projeto conforme abaixo:
-
-![Start](https://i.imgsafe.org/cb/cb0daa65df.gif)
-
 ## Clonando o Repositório ##
 Com o Git e o Node.js instalado na sua maquina e a **URL** do projeto em mãos, cria em algum lugar do seu pc uma pasta para criarmos uma copia do repositório, dentro dela abra o **cmd** ou **powershell** e digite os comandos abaixo:
 ```
