@@ -1,5 +1,6 @@
 # video-maker
 Projeto open source para fazer vídeos automatizados
+![ezgif-5-a906cfcd3fd1](https://user-images.githubusercontent.com/34013325/57246263-33f69b80-7013-11e9-97a1-2f84acf2a7fe.gif)
 
 # Pré requisitos
 
@@ -10,7 +11,7 @@ Projeto open source para fazer vídeos automatizados
 ## Clonando o Repositório ##
 Com o Git e o Node.js instalado na sua maquina e a **URL** do projeto em mãos, cria em algum lugar do seu pc uma pasta para criarmos uma copia do repositório, dentro dela abra o **cmd** ou **powershell** e digite os comandos abaixo:
 ```
-git clone https://github.com/filipedeschamps/video-maker.git
+git clone https://github.com/danrigoni/video-maker
 cd video-maker
 npm install
 ```
